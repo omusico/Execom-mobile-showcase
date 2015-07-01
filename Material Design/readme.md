@@ -14,9 +14,9 @@ would also have to implement one Recycler view along with the needed adapters.
 
 To achieve the effect of scaling image and title text, multiple view layers are used.
 
-# Image view that scales depending on the list position.
-# Simple overlay view that is changing the alpha and creating the color tint over the image.
-# List view (Recycler view in this case) for displaying data. The list view has a header added programmatically.
-# Simple underlay view for providing background to the list view but not its header.
-# Linear layout containing the title text that gets scaled and simple view to provide padding.
+* Image view that scales depending on the list position.
+* Simple overlay view that is changing the alpha and creating the color tint over the image.
+* List view (Recycler view in this case) for displaying data. The list view has a header added programmatically.
+* Simple underlay view for providing background to the list view but not its header.
+* Linear layout containing the title text that gets scaled and simple view to provide padding.
 
