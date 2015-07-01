@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox3Materialdesign/app/build/intermediates/exploded-aar/com.github.ksoichiro/android-observablescrollview/1.5.2/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="256c2cf84542c459927ed4aa5f99a9b47855c071">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox3Materialdesign/app/build/intermediates/pre-dexed/debug/classes-188398137f0b6f72d9a1f61d4d60ead5dc11984b.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox3Materialdesign/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox3Materialdesign/app/build/intermediates/pre-dexed/debug/classes-0d5e54700b32acd6ec0fe6a014b6a1f84af10c4c.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox3Materialdesign/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.0.7/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b105aa5409ceb15382344efedf970c1b8257a09a">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox3Materialdesign/app/build/intermediates/pre-dexed/debug/classes-9784428e28d00b84ea262047b6444f6e156d8219.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox3Materialdesign/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox3Materialdesign/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-ff9655e1aac206bc70cf299e9d01e4f97183b88b.jar" />
+    </item>
+    <item
+        jar="/home/nantic/Documents/android/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox3Materialdesign/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-08f872449de049870d30114c3f7e8d91fe8add7e.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox3Materialdesign/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox3Materialdesign/app/build/intermediates/pre-dexed/debug/classes-615122ca0c3e66c57dc76653edf064d1e713c594.jar" />
+    </item>
+    <item
+        jar="/home/nantic/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox3Materialdesign/app/build/intermediates/pre-dexed/debug/library-2.4.0-e10baba48f60c1f99e0ea04598a96e548a1edaf1.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox3Materialdesign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox3Materialdesign/app/build/intermediates/pre-dexed/debug/classes-9d2712fb7d24676f96947914b12cd5774a33e43f.jar" />
+    </item>
+
+</items>

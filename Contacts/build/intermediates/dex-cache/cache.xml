@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox2Contacts/app/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox2Contacts/app/build/intermediates/pre-dexed/debug/classes-0fb71688ff4f4072f0cdb1c1603302b856642135.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox2Contacts/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox2Contacts/app/build/intermediates/pre-dexed/debug/classes-023505d52cbb831e7fdc3b0ec4c4761fd60c77d6.jar" />
+    </item>
+    <item
+        jar="/home/nantic/Documents/android/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox2Contacts/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-08f872449de049870d30114c3f7e8d91fe8add7e.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox2Contacts/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox2Contacts/app/build/intermediates/pre-dexed/debug/classes-9831dc7d76a5527a03f231d0c59ebcc1bef7517a.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox2Contacts/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox2Contacts/app/build/intermediates/pre-dexed/debug/classes-a6caa100897c8214e70f6a699032bb9c6dab7fb1.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox2Contacts/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox2Contacts/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-a9a305ff9800ad8575164fc28029f8d17501f2ce.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox2Contacts/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox2Contacts/app/build/intermediates/pre-dexed/debug/classes-2038ecb02714ff5d645d61e4c2072d83cb570505.jar" />
+    </item>
+    <item
+        jar="/home/nantic/.gradle/caches/modules-2/files-2.1/commons-lang/commons-lang/2.6/ce1edb914c94ebc388f086c6827e8bdeec71ac2/commons-lang-2.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0ce1edb914c94ebc388f086c6827e8bdeec71ac2">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox2Contacts/app/build/intermediates/pre-dexed/debug/commons-lang-2.6-69ed2700b37ef9915c3fa8dca24f33e478a26080.jar" />
+    </item>
+    <item
+        jar="/home/nantic/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox2Contacts/app/build/intermediates/pre-dexed/debug/library-2.4.0-e10baba48f60c1f99e0ea04598a96e548a1edaf1.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/pre-dexed/debug/classes-d30284dca7bd545f5d2e9706dfbd31585c701754.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/pre-dexed/debug/classes-9820f11135de8239bd0c5f5cf87191b8ee25e27f.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/pre-dexed/debug/classes-9820f11135de8239bd0c5f5cf87191b8ee25e27f.jar" />
+    </item>
+    <item
+        jar="/home/nantic/Documents/android/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-7fa65ba9ffd9ae50969ea0b66b1186867b908f00.jar" />
+    </item>
+    <item
+        jar="/home/nantic/Documents/android/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-7fa65ba9ffd9ae50969ea0b66b1186867b908f00.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-874a2bf49272eb392041692651608b6c354087e2.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/pre-dexed/debug/classes-d30284dca7bd545f5d2e9706dfbd31585c701754.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/pre-dexed/debug/classes-f47dfc96509f34cb6f5c3e58bf3c15d0f0688c0e.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/pre-dexed/debug/classes-f47dfc96509f34cb6f5c3e58bf3c15d0f0688c0e.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-874a2bf49272eb392041692651608b6c354087e2.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.0.9/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ed2ab55be78d5d54ac9060d70d65a4573ae3d2ec">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/pre-dexed/debug/classes-eab9c1db98f595581aa786c8f53440b2ab585d35.jar" />
+    </item>
+    <item
+        jar="/home/nantic/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/pre-dexed/debug/library-2.4.0-e10baba48f60c1f99e0ea04598a96e548a1edaf1.jar" />
+    </item>
+    <item
+        jar="/home/nantic/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/pre-dexed/debug/library-2.4.0-e10baba48f60c1f99e0ea04598a96e548a1edaf1.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.0.9/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ed2ab55be78d5d54ac9060d70d65a4573ae3d2ec">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/pre-dexed/debug/classes-eab9c1db98f595581aa786c8f53440b2ab585d35.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/pre-dexed/debug/classes-0f38758b9d5ddf84da5d097249dab00735bb06d3.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/pre-dexed/debug/classes-0f38758b9d5ddf84da5d097249dab00735bb06d3.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d59de211e85bc8c7f75c7a4890d229ff8c4dab87">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/pre-dexed/debug/classes-4985ab9388b97f26ae52d9546b9965e58ef39434.jar" />
+    </item>
+    <item
+        jar="/home/nantic/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.4.1/8cf467c87b83c959fd7e8aef842127abce72fc5c/robotium-solo-5.4.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="8cf467c87b83c959fd7e8aef842127abce72fc5c">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/pre-dexed/androidTest/debug/robotium-solo-5.4.1-09c29160e8f1e54e43e41ea2da7a9bb63eb29a45.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d59de211e85bc8c7f75c7a4890d229ff8c4dab87">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/pre-dexed/debug/classes-4985ab9388b97f26ae52d9546b9965e58ef39434.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/pre-dexed/debug/classes-aaef835e8ab1ca081e7433ce51e1a87cdc5a14d5.jar" />
+    </item>
+    <item
+        jar="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/nantic/AndroidStudioProjects/Toolbox1SugarORM/app/build/intermediates/pre-dexed/debug/classes-aaef835e8ab1ca081e7433ce51e1a87cdc5a14d5.jar" />
+    </item>
+
+</items>

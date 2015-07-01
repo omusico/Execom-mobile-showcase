@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Toolbox 2: Contacts</string>
+
+    <string name="date_format">dd.MM.yyyy</string>
+    <string name="info_private">private</string>
+    <string name="info_work">work</string>
+    <string name="info_other">other</string>
+    <string name="phone">phone</string>
+    <string name="email">email</string>
+    <string name="address">address</string>
+    <string name="website">website</string>
+    <string name="location">location</string>
+    <string name="date_of_birth">date of birth</string>
+    <string name="search">Search</string>
+    <string name="name">name</string>
+    <string name="display_name">name</string>
+    <string name="save">Save</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+    <string name="country">country</string>
+    <string name="username">Username</string>
+    <string name="title_activity_details">Details</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+
+    <!--GENERAL-->
+    <string name="app_name">Toolbox 1: Sugar ORM</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="cancel">Cancel</string>
+    <string name="date_format">"dd.MM.yyyy - HH:mm:ss"</string>
+
+    <!--LOGIN-->
+    <string name="login_button">Sign in</string>
+    <string name="login_forgot_password">Forgot password?</string>
+    <string name="login_or">or</string>
+    <string name="login_register">Register</string>
+    <string name="login_error">Incorrect username and/or password.</string>
+    <string name="login_retrieve_password_error">No users found with that email/name combinations.</string>
+    <string name="login_retrieve_password_success">"Your password is: "</string>
+    <string name="login_retrieve_password_button">Retrieve password</string>
+    <string name="login_retrieve_password_title">Password recovery</string>
+    <string name="login_registration_title">Registration</string>
+    <string name="login_register_button">Register</string>
+
+    <string name="main_activity_title">Toolbox</string>
+    <string name="users_fragment_title">Users</string>
+    <string name="my_messages_fragment_title">My messages</string>
+    <string name="messages_for_me_fragment_title">Messages</string>
+    <string name="row_message_from">From:</string>
+
+</resources>
