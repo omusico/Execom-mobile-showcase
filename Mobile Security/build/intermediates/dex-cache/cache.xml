@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nantic/git/Mobilesecurity/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/nantic/git/Mobilesecurity/app/build/intermediates/pre-dexed/debug/classes-d74f6ca937d06ef339e5704b42b0abf8aeb6a89b.jar" />
+    </item>
+    <item
+        jar="/home/nantic/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/5fe28b9518e58819180a43a850fbc0dd24b7c050/commons-lang3-3.4.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="/home/nantic/git/Mobilesecurity/app/build/intermediates/pre-dexed/debug/commons-lang3-3.4-a815c09dda59a0b80f72d635e00b9df8cf3c6729.jar" />
+    </item>
+    <item
+        jar="/home/nantic/git/Mobilesecurity/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/nantic/git/Mobilesecurity/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-82f9d3ea3a31d58bbb9bd716f6a4723407774862.jar" />
+    </item>
+    <item
+        jar="/home/nantic/git/Mobilesecurity/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.0.9/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="ed2ab55be78d5d54ac9060d70d65a4573ae3d2ec">
+        <dex dex="/home/nantic/git/Mobilesecurity/app/build/intermediates/pre-dexed/debug/classes-d2688fec9a5a4d36426234985ac853d05bbdcc0f.jar" />
+    </item>
+    <item
+        jar="/home/nantic/Documents/android/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/nantic/git/Mobilesecurity/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-7fa65ba9ffd9ae50969ea0b66b1186867b908f00.jar" />
+    </item>
+    <item
+        jar="/home/nantic/git/Mobilesecurity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/nantic/git/Mobilesecurity/app/build/intermediates/pre-dexed/debug/classes-c0b4b68455071ad680b3f20c1ef5eca1025c7535.jar" />
+    </item>
+
+</items>

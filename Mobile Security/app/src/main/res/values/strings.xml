@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mobile security</string>
+    <string name="aes_title">AES 128</string>
+    <string name="sha_title">SHA 2</string>
+    <string name="encrypt">encrypt</string>
+    <string name="decrypt">decrypt</string>
+    <string name="hash">Hash</string>
+</resources>

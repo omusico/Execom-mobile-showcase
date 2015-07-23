@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context="eu.execom.mobilesecurity.fragments.FragmentSHA256">
+
+    <EditText
+        android:id="@+id/raw_value"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="54dp"
+        android:ems="10"
+        android:textColor="@color/primary_dark"
+        android:gravity="center_horizontal"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/hash_function"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="48dp"
+        android:background="@color/primary"
+        android:text="@string/hash"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/hashed_value"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="59dp"
+        android:gravity="center_horizontal"
+        android:textColor="@color/primary_dark"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+</LinearLayout>
