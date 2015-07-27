@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OAuth2</string>
+    <string name="facebook_app_id">461035030744841</string>
+    <string name="google_login_title">Google</string>
+    <string name="facebook_login_title">Facebook</string>
+    <string name="twitter_login_title">Twitter</string>
+</resources>
