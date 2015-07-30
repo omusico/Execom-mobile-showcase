@@ -1,4 +1,4 @@
-Toolbox #3: Material design - Action bar
+Material design - Action bar
 ========================================
 
 Material components and behaviour.

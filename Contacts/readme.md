@@ -1,4 +1,4 @@
-Toolbox #2: Contact management
+Contact management
 ===================================
 CRUD operations over the android native contact database
 ---------------------------------------------------------

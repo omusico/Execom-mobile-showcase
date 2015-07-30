@@ -1,4 +1,4 @@
-Toolbox #4: OAuth2
+OAuth2
 ==================
 Google+, Facebook and Twitter authentication
 ---------------------------------------------
