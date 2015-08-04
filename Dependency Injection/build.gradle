@@ -1,0 +1,18 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.2.3'
+        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.4'
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+        maven {
+            url 'http://repo.spring.io/milestone'
+        }
+    }
+}
