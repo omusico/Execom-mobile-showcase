@@ -1,8 +1,5 @@
 package eu.execom.toolbox1sugarorm;
 
-import android.content.Context;
-import android.content.SharedPreferences;
-import android.preference.PreferenceManager;
 import android.test.ActivityInstrumentationTestCase2;
 
 import com.robotium.solo.Solo;
