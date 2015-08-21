@@ -2,14 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="eu.execom.toolbox1sugarorm" >
 
-    <instrumentation
-        android:name="android.test.InstrumentationTestRunner"
-        android:targetPackage="eu.execom.toolbox1sugarorm" />
-
-    <instrumentation
-        android:name=".ExecomRunner"
-        android:targetPackage="eu.execom.toolbox1sugarorm" />
-
     <application
         android:name=".Toolbox"
         android:allowBackup="true"
