@@ -55,10 +55,8 @@ automatically).
 Gradle tasks that need to be run:
 :app:assembleDebug :app:assembleDebugAndroidTest
 
-Important: Once the building is complete, BOTH app-debug.apk AND app-debug-androidTest-unaligned.apk
-----------------------------------------------------------------------------------------------------
-need to be installed.
----------------------
+Important: Once the building is complete, BOTH app-debug.apk AND app-debug-androidTest-unaligned.apk need to be installed.
+--------------------------------------------------------------------------------------------------------------------------
 
 Once both APKs have been installed, running test is simple:
 adb shell am instrument -w eu.execom.toolbox1sugarorm.test/android.test.InstrumentationTestRunner
