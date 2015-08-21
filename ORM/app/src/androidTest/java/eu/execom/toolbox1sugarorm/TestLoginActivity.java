@@ -1,5 +1,7 @@
 package eu.execom.toolbox1sugarorm;
 
+import android.content.Context;
+import android.preference.PreferenceManager;
 import android.test.ActivityInstrumentationTestCase2;
 
 import com.robotium.solo.Solo;
@@ -23,6 +25,8 @@ public class TestLoginActivity extends ActivityInstrumentationTestCase2<LoginAct
     }
 
     public void setUp() throws Exception {
+        final Context context = getInstrumentation().getTargetContext();
+        PreferenceManager.getDefaultSharedPreferences(context).edit().clear().commit();
         solo = new Solo(getInstrumentation(), getActivity());
     }
 
