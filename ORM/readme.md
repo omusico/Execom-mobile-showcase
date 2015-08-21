@@ -43,3 +43,22 @@ named SQL file with desired scrips (Ex. Migrating to version 3 would mean that t
 to be named "3.sql"). Sugar will automatically create tables for new entities, so the migration
 script only needs to cater for alterations to existing tables. An important thing to note is that
 the version meta-tag has to have a minimum version of 2 or the database wont be created.
+
+Instrumentation tests with Jenkins CI
+======================================
+
+A machine running CPU with Nehalem architecture or better (Any i3, i5, i7 will suffice) is
+required in order to allow virtualization of the android emulator. Once the machine is set as a
+Jenkins slave, it will also require Java, Git, Android SDK (installed by Android plugin for jenkins
+automatically).
+
+Gradle tasks that need to be run:
+:app:assembleDebug :app:assembleDebugAndroidTest
+
+Important: Once the building is complete, BOTH app-debug.apk AND app-debug-androidTest-unaligned.apk
+----------------------------------------------------------------------------------------------------
+need to be installed.
+---------------------
+
+Once both APKs have been installed, running test is simple:
+adb shell am instrument -w eu.execom.toolbox1sugarorm.test/android.test.InstrumentationTestRunner
