@@ -28,6 +28,7 @@ public class TestLoginActivity extends ActivityInstrumentationTestCase2<LoginAct
         final Context context = getInstrumentation().getTargetContext();
         PreferenceManager.getDefaultSharedPreferences(context).edit().clear().commit();
         solo = new Solo(getInstrumentation(), getActivity());
+        solo.unlockScreen();
     }
 
     public void testRegistrationShouldWork() {
