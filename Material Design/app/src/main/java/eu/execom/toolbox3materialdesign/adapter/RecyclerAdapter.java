@@ -1,71 +1,59 @@
 package eu.execom.toolbox3materialdesign.adapter;
 
-import android.content.Context;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import org.androidannotations.annotations.EBean;
+import org.androidannotations.annotations.UiThread;
+
 import java.util.ArrayList;
+import java.util.List;
 
-public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
+import eu.execom.toolbox3materialdesign.R;
 
-    private static final int VIEW_TYPE_HEADER = 0;
-    private static final int VIEW_TYPE_ITEM = 1;
+@EBean
+public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHolder>{
 
-    private LayoutInflater inflater;
-    private ArrayList<String> items;
-    private View headerView;
+    private List<String> strings = new ArrayList<>();
 
-    public RecyclerAdapter(Context context, ArrayList<String> items, View headerView) {
-        inflater = LayoutInflater.from(context);
-        this.items = items;
-        this.headerView = headerView;
+    public static class ViewHolder extends RecyclerView.ViewHolder {
+
+        TextView title;
+
+        public ViewHolder(View view) {
+            super(view);
+            title = (TextView) view.findViewById(R.id.title);
+        }
+
+    }
+
+    @Override
+    public RecyclerAdapter.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+        final View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.item_text, parent, false);
+        return new ViewHolder(view);
+    }
+
+    @Override
+    public void onBindViewHolder(final ViewHolder holder, int position) {
+        final String text = strings.get(position);
+        holder.title.setText(text);
     }
 
     @Override
     public int getItemCount() {
-        if (headerView == null) {
-            return items.size();
-        } else {
-            return items.size() + 1;
-        }
+        return strings.size();
     }
 
-    @Override
-    public int getItemViewType(int position) {
-        return (position == 0) ? VIEW_TYPE_HEADER : VIEW_TYPE_ITEM;
+    public void update(List<String> strings){
+        this.strings = strings;
+        notifyChanges();
     }
 
-    @Override
-    public RecyclerView.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
-        if (viewType == VIEW_TYPE_HEADER) {
-            return new HeaderViewHolder(headerView);
-        } else {
-            return new ItemViewHolder(inflater.inflate(android.R.layout.simple_list_item_1, parent, false));
-        }
-    }
-
-    @Override
-    public void onBindViewHolder(RecyclerView.ViewHolder viewHolder, int position) {
-        if (viewHolder instanceof ItemViewHolder) {
-            ((ItemViewHolder) viewHolder).textView.setText(items.get(position - 1));
-        }
-    }
-
-    static class HeaderViewHolder extends RecyclerView.ViewHolder {
-        public HeaderViewHolder(View view) {
-            super(view);
-        }
-    }
-
-    static class ItemViewHolder extends RecyclerView.ViewHolder {
-        final TextView textView;
-
-        public ItemViewHolder(View view) {
-            super(view);
-            textView = (TextView) view.findViewById(android.R.id.text1);
-        }
+    @UiThread
+    void notifyChanges(){
+        notifyDataSetChanged();
     }
 }
